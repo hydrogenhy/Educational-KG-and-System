@@ -16,6 +16,8 @@ merge (F:chapter{title:line.title})
 MERGE (B)-[r:contain]->(F)
 ```
 
+![](graph.png)
+
 若得到的节点上显示乱码，则可用当前文件夹内 `check_csv.py` 来检测编码并改变。
 
 ## 程序运行
