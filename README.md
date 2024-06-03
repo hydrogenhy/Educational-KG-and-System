@@ -51,3 +51,10 @@ class KG_show:
    ```
 
 4. 复杂查询：若接入LLM则输入自然语言，否则输入若干要查询的课程，用空格隔开。
+
+---
+
+## Contributors
+1. Yi Huang: https://github.com/hydrogenhy
+2. YiSenGao: https://github.com/Eason-nuosen
+3. Jiaze Song: 
