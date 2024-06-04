@@ -61,4 +61,4 @@ class KG_show:
 ## Contributors
 1. Yi Huang: https://github.com/hydrogenhy
 2. YiSenGao: https://github.com/Eason-nuosen
-3. Jiaze Song: 
+3. Jiaze Song: https://github.com/kasawa1234
